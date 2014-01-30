@@ -1,5 +1,5 @@
-QA Automation Engineer Interview Task
-=====================================
+Test Infrastructure Engineer Interview Task
+===========================================
 
 Refactor a legacy Puppet manifest into a reusable module and a role that
 will apply the module.
