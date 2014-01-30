@@ -1,0 +1,10 @@
+QA Automation Engineer Interview Task
+=====================================
+
+Refactor a legacy Puppet manifest into a reusable module and a role that
+will apply the module.
+
+This manifest has been extracted from the operations/puppet repository
+used to manage Wikimedia Foundation production servers. The finished
+project should attempt to comply with the style and coding conventions
+used in the original project.
