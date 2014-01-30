@@ -21,7 +21,7 @@ they feel is appropriate. Please report the time spent on the task along
 with your solution and an additional notes you feel will assist in the
 evaluation of your work.
 
-Solutions to the exercise should be made via email as a compresses
+Solutions to the exercise should be made via email as a compressed
 tarball or zip file to your recruiting contact. Please do not post your
 solutions on github, a personal blog or other publicly accessible web
 sites.
